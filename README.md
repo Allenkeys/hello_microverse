@@ -48,9 +48,9 @@ Linters test in github
 
 👤 **Joshua Eze**
 
-- GitHub: [@githubhandle](https://github.com/Allenkeys)
-- Twitter: [@twitterhandle](https://twitter.com/jdgraay)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/eze-joshua)
+- GitHub: [@Allenkeys](https://github.com/Allenkeys)
+- Twitter: [@jdgraay](https://twitter.com/jdgraay)
+- LinkedIn: [Eze Joshua](https://linkedin.com/in/eze-joshua)
 
 ## 📝 License
 
